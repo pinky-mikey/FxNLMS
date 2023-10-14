@@ -1,0 +1,4 @@
+exwhite=0.14835*exwhite
+expink=2.5585*expink
+exbrown=8.92*exbrown
+variance=0.0073
